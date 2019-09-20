@@ -13,3 +13,5 @@ Trips include:
 * [2016 Michelle and Cora's Mission Trip to Panama]()
 * [2017 Family Trip to Sweden](http://www.travel.blackford.info/Sweden/index.html)
 * [2018 Cora and Neva visit Mexico with Grandma Peggy and Titone cousins](http://www.travel.blackford.info/2018Mexico/index.html)
+
+site is also published at https://bret-blackford.github.io/travel/
